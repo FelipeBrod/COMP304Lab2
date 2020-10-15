@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-
+    //Felipe Rodrigues 301032408
     private Button toSecondScreen;
 
     @Override
